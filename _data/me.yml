@@ -2,26 +2,28 @@
 # Replace these with your own personal info
 
 name: "김형수"
-job: "Job Title"
+job: "초보개발자"
 hi: "HIYA!"
 avatar_img: "/assets/img/me.png" # path to your avatar
 intro:
-  - "Some thing about yourself"
-  - "Can have multiple lines"
+  - "나이: 30"
+  - "학력 : 한국기술교육대학원 박사수료"
+  - "거주지 : 충청남도 천안, 경기도 수원"
 skills:
-  - name: "Programming"
+  - name: "사용가능한 프로그래밍 언어"
     icon-class: "fa fa-terminal"
     list: ["C++", "C#", "Python", "C", "MYSQL", "JAVA"]
-  - name: "Framework"
+  - name: "보유한 자격증"
     icon-class: "fa fa-th-list"
-    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask"]
-  - name: "Tools"
+    list: ["정보처리산업기사", "사무자동화산업기사","네트워크관리사2급","통선선로기능사","직업개발능력훈련교사3급"]
+  - name: "개발 가능한 분야"
     icon-class: "fa fa-cogs"
-    list: ["Linux", "Widnows", "VisualCode", "VisualStudio", "SublimeText"]
+    list: ["네트워크/통신","웹페이지","영상처리","안드로이드","WPF제작","..."]
+
 
 display_name: "YOUR NAME"
 contact:
-  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "123 4567 8910", link: "tel: 123 4567 8010"}
-  - {name: "Email", icon-class: "fa fa-envelope", text: "example@example.com", link: "mailto: example@example.com"}
+  - {name: "Mobile", icon-class: "fa fa-phone-square", text: "010-2982-9529", link: "tel: 010-2982-9529"}
+  - {name: "Email", icon-class: "fa fa-envelope", text: "there924@naver.com", link: "mailto: there924@naver.com"}
 social:
   - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com", link: "https://github.com"}
